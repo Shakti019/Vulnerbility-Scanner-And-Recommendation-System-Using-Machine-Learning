@@ -1,0 +1,1001 @@
+Year,Vulnerability Type,Count,Severity,CVSS Score,Exploitability Score,Affected Devices,Impact
+2021,Insecure Direct Object Reference,6,Medium,7.7,0.94,API,Unauthorized access  System control
+2021,Misconfiguration    Security Headers,30,Critical,5.6,0.63,Database,Privilege escalation   Denial    Service
+2021,XML External Entity (XXE),28,Medium,9.1,0.82,Storage,Remote code execution
+2023,Server  Side Request Forgery,20,High,9.4,0.64,Switch,Privilege escalation   Denial    Service
+2021,Buffer Overflow,40,High,7.5,0.72,API,Detection delay   Long  term impact
+2021,Race Condition,21,Low,4.9,0.98,Router,Detection delay   Long  term impact
+2023,Buffer Overflow,1,Low,10.0,0.58,Server,Unauthorized access   Data loss
+2021,Comm  Injection,41,Medium,4.2,0.92,IoT Devices,Unauthorized access   System control
+2021,Insecure Direct Object Reference,38,High,7.0,0.83,Database,Sensitive data leak
+2022,Race Condition,28,Critical,4.6,0.85,IoT Devices,Privilege escalation   Denial    Service
+2023,XML External Entity (XXE),25,High,6.1,0.6,Web Application,Sensitive data leak
+2021,Cross  Site Request Forgery,14,Low,6.0,0.54,Cameras,Data exposure
+2023,Cross  Site Scripting,26,Medium,5.5,0.84,Router,Privilege escalation   Denial    Service
+2021,XML External Entity (XXE),14,High,5.2,0.58,Server,Remote code execution
+2021,Remote File Inclusion,24,Medium,9.0,0.95,Cameras,Unauthorized access   Data loss
+2021,Cross  Site Request Forgery,43,Critical,8.7,0.71,API,Privilege escalation   Denial    Service
+2021,Cross  Site Scripting,21,High,6.1,0.99,Cameras,Session hijacking
+2022,Server  Side Request Forgery,35,Low,6.6,0.52,Firmware,Data theft   Remote code execution
+2021,Improper Input Validation,43,Low,8.3,0.53,Server,Data exposure
+2023,Comm  Injection,22,Medium,9.1,0.89,API,System takeover   Privilege escalation
+2023,Race Condition,33,High,8.4,0.85,Storage,Session hijacking
+2023,Remote File Inclusion,13,Low,8.6,0.86,Switch,Session hijacking
+2022,Insufficient Logging   Monitoring,9,Medium,8.5,0.85,Router,Remote code execution
+2021,Cross  Site Request Forgery,14,Critical,8.9,0.55,Database,Unauthorized access   Data loss
+2022,Misconfiguration    Security Headers,48,Low,6.2,0.92,Cameras,Unauthorized access   Data loss
+2023,Weak Cryptography,3,Critical,5.4,0.94,IoT Devices,Unauthorized access   Data loss
+2023,Information Disclosure,41,Medium,8.9,0.72,Database,Unauthorized access   Data loss
+2022,Directory Traversal,42,Critical,8.3,0.51,Router,System takeover   Privilege escalation
+2021,Insufficient Logging   Monitoring,16,Low,5.4,0.82,Storage,System takeover   Privilege escalation
+2021,Misconfiguration    Security Headers,45,Low,9.5,0.6,API,Data exposure
+2023,Insufficient Logging   Monitoring,10,Low,5.7,0.84,Cameras,Sensitive data leak
+2022,Cross  Site Request Forgery,47,Medium,8.6,0.75,Web Application,Detection delay   Long  term impact
+2021,Cross  Site Request Forgery,31,Low,6.5,0.58,IoT Devices,Session hijacking
+2022,Remote File Inclusion,8,Critical,5.7,0.88,Database,Unauthorized access   System control
+2023,Insufficient Logging   Monitoring,48,Medium,8.6,0.83,Switch,Detection delay   Long  term impact
+2022,Insecure Direct Object Reference,24,Critical,9.8,0.69,Web Application,Remote code execution
+2023,Privilege Escalation,44,Medium,9.2,0.94,Web Application,System takeover   Privilege escalation
+2022,XML External Entity (XXE),49,High,7.0,0.52,Storage,Detection delay   Long  term impact
+2021,Remote File Inclusion,12,Critical,5.3,0.71,Firmware,Session hijacking
+2023,Insecure Deserialization,50,Medium,8.6,0.91,Database,Data exposure
+2022,Cross  Site Scripting,45,High,5.2,0.84,Workstation,Privilege escalation   Denial    Service
+2023,Misconfiguration    Security Headers,3,Low,8.3,0.58,IoT Devices,Data exposure
+2022,Improper Input Validation,10,Medium,7.6,0.97,Database,Data exposure
+2022,Path Traversal,19,Critical,6.8,0.88,API,Session hijacking
+2022,Information Disclosure,49,Low,5.6,0.93,Router,Data theft   Remote code execution
+2023,XML External Entity (XXE),31,High,6.2,0.84,Firmware,Session hijacking
+2023,Misconfiguration    Security Headers,11,Low,5.1,0.81,Cameras,Sensitive data leak
+2022,Path Traversal,34,Critical,9.0,0.67,Server,Privilege escalation   Denial    Service
+2021,Insufficient Logging   Monitoring,11,High,5.7,0.87,Server,Remote code execution
+2022,Improper Input Validation,6,Low,9.2,0.77,Database,Detection delay   Long  term impact
+2021,Path Traversal,48,Critical,7.2,0.62,Web Application,Data theft   Remote code execution
+2022,Authentication Bypass,19,Critical,6.9,0.75,IoT Devices,Data theft   Remote code execution
+2022,Privilege Escalation,1,High,9.8,0.57,Cameras,Data exposure
+2022,Cross  Site Scripting,23,Critical,7.7,0.73,Workstation,Data exposure
+2023,Misconfiguration    Security Headers,17,Critical,4.5,0.8,Storage,Sensitive data leak
+2021,Privilege Escalation,42,Critical,8.9,0.87,Router,Detection delay   Long  term impact
+2021,Path Traversal,33,High,7.5,0.99,Server,Detection delay   Long  term impact
+2022,Race Condition,36,Medium,5.3,0.59,Cameras,Privilege escalation   Denial    Service
+2022,Cross  Site Scripting,5,Low,7.2,0.74,Database,Detection delay   Long  term impact
+2021,Improper Input Validation,23,Medium,9.0,0.64,API,Detection delay   Long  term impact
+2022,Authentication Bypass,42,Low,5.8,0.71,Router,Data exposure
+2023,XML External Entity (XXE),42,Critical,8.0,0.94,Storage,Data exposure
+2023,Directory Traversal,31,High,8.9,0.54,Server,Sensitive data leak
+2023,Privilege Escalation,32,Medium,9.4,0.74,Database,Unauthorized access   System control
+2021,Privilege Escalation,41,Critical,4.3,0.72,Switch,Remote code execution
+2023,Cross  Site Scripting,49,Critical,4.4,0.65,API,Session hijacking
+2023,SQL Injection,15,Medium,6.0,0.64,Server,Unauthorized access   Data loss
+2021,SQL Injection,31,Low,8.7,0.84,Cameras,Remote code execution
+2023,Improper Input Validation,29,Critical,5.6,0.63,Storage,Sensitive data leak
+2021,Cross  Site Request Forgery,44,Medium,6.7,0.96,Database,Privilege escalation   Denial    Service
+2021,Cross  Site Request Forgery,36,Low,7.6,0.54,Server,Unauthorized access   System control
+2021,Privilege Escalation,13,Critical,6.6,0.92,Storage,Detection delay   Long  term impact
+2022,Comm  Injection,46,High,6.0,0.51,Router,Detection delay   Long  term impact
+2023,Directory Traversal,49,Critical,7.0,0.9,Storage,Unauthorized access   System control
+2023,Server  Side Request Forgery,13,High,4.2,0.81,Firmware,Remote code execution
+2022,Buffer Overflow,37,High,8.4,0.81,Router,Sensitive data leak
+2022,Misconfiguration    Security Headers,46,High,5.3,0.93,Switch,Unauthorized access   System control
+2021,Path Traversal,45,Low,8.2,0.91,Storage,Unauthorized access   System control
+2021,Directory Traversal,36,High,6.2,0.59,Workstation,Data exposure
+2023,Comm  Injection,28,Critical,9.4,0.8,Web Application,System takeover   Privilege escalation
+2021,Race Condition,12,Medium,6.6,0.66,Database,Data theft   Remote code execution
+2021,Information Disclosure,16,High,5.0,0.83,Server,Unauthorized access   Data loss
+2023,Cross  Site Request Forgery,19,High,9.1,0.64,Database,Unauthorized access   Data loss
+2021,Race Condition,35,Critical,8.0,0.5,Switch,Privilege escalation   Denial    Service
+2023,Insecure Deserialization,7,Critical,5.5,0.62,Workstation,Data exposure
+2023,Race Condition,23,Low,7.4,0.69,Firmware,System takeover   Privilege escalation
+2023,Weak Cryptography,49,Medium,8.9,0.58,Cameras,Detection delay   Long  term impact
+2021,Cross  Site Request Forgery,35,Low,7.4,0.8,Database,Remote code execution
+2023,Remote File Inclusion,38,High,7.9,0.71,Storage,Data theft   Remote code execution
+2021,Misconfiguration    Security Headers,23,High,9.5,0.54,IoT Devices,Unauthorized access   Data loss
+2022,Authentication Bypass,17,Critical,9.6,0.64,IoT Devices,Sensitive data leak
+2023,Path Traversal,26,High,5.4,0.89,Server,Data exposure
+2022,Race Condition,41,Medium,4.3,0.96,Database,Data exposure
+2021,Misconfiguration    Security Headers,4,Low,5.8,0.73,API,Unauthorized access   Data loss
+2021,Insecure Direct Object Reference,50,High,5.2,0.56,IoT Devices,Data theft   Remote code execution
+2023,SQL Injection,38,Medium,7.6,0.97,Web Application,System takeover   Privilege escalation
+2022,Insecure Deserialization,35,High,6.3,0.76,Cameras,System takeover   Privilege escalation
+2021,Authentication Bypass,40,High,8.9,0.62,Switch,Sensitive data leak
+2021,XML External Entity (XXE),49,Critical,7.5,0.91,IoT Devices,Session hijacking
+2023,Privilege Escalation,7,Critical,4.9,0.51,Firmware,Detection delay   Long  term impact
+2022,Directory Traversal,29,Medium,7.6,0.84,Switch,System takeover   Privilege escalation
+2023,Information Disclosure,44,High,9.6,0.67,API,Data exposure
+2023,Race Condition,49,Medium,7.3,0.71,Storage,Data theft   Remote code execution
+2023,Path Traversal,9,Critical,7.9,0.96,Storage,Data exposure
+2023,Directory Traversal,37,High,8.2,0.9,Router,Detection delay   Long  term impact
+2022,Comm  Injection,39,Critical,7.7,0.56,API,Data theft   Remote code execution
+2021,Insufficient Logging   Monitoring,20,Medium,8.9,0.53,Database,Remote code execution
+2021,Remote File Inclusion,29,Critical,5.2,0.75,Router,Unauthorized access   System control
+2021,Comm  Injection,33,Medium,9.5,0.66,Web Application,Unauthorized access   Data loss
+2022,Buffer Overflow,5,High,7.6,0.84,Cameras,Data exposure
+2023,Misconfiguration    Security Headers,31,Medium,8.1,0.84,Firmware,Data exposure
+2021,Information Disclosure,1,High,5.4,0.71,Workstation,Sensitive data leak
+2023,Authentication Bypass,12,Critical,6.8,0.66,Firmware,Data exposure
+2022,Race Condition,41,Medium,7.0,0.97,Cameras,Session hijacking
+2023,Race Condition,30,Medium,8.5,0.84,Router,Data exposure
+2022,Privilege Escalation,10,Low,4.4,0.83,Router,Unauthorized access   Data loss
+2023,SQL Injection,26,Low,9.3,0.69,IoT Devices,Detection delay   Long  term impact
+2022,Insufficient Logging   Monitoring,19,High,4.7,0.6,IoT Devices,Detection delay   Long  term impact
+2022,Cross  Site Request Forgery,3,Medium,4.8,0.83,Server,Data exposure
+2022,Misconfiguration    Security Headers,46,Medium,5.1,0.96,Switch,Remote code execution
+2021,Insecure Deserialization,9,Medium,5.4,0.58,Storage,Data theft   Remote code execution
+2021,Insufficient Logging   Monitoring,31,Critical,6.0,0.78,Storage,System takeover   Privilege escalation
+2021,Race Condition,1,Critical,9.2,0.56,Web Application,Sensitive data leak
+2022,Insufficient Logging   Monitoring,48,High,7.0,0.59,Storage,System takeover   Privilege escalation
+2023,Insecure Direct Object Reference,23,Low,7.9,0.8,Server,Sensitive data leak
+2021,Insecure Direct Object Reference,13,Low,5.6,0.67,Firmware,Sensitive data leak
+2022,Path Traversal,50,Critical,6.9,0.82,API,Unauthorized access   System control
+2022,XML External Entity (XXE),7,Low,6.5,0.57,Server,Unauthorized access   System control
+2023,Insecure Deserialization,21,Critical,7.0,0.8,Web Application,Privilege escalation   Denial    Service
+2021,Insecure Deserialization,26,High,9.2,0.87,Database,Privilege escalation   Denial    Service
+2021,Insufficient Logging   Monitoring,3,High,4.8,0.63,Web Application,Unauthorized access   System control
+2022,Remote File Inclusion,46,Low,7.3,0.72,Server,Data theft   Remote code execution
+2023,Information Disclosure,2,Critical,6.2,0.65,Cameras,Data theft   Remote code execution
+2023,Race Condition,14,Low,8.7,0.59,Web Application,Remote code execution
+2021,SQL Injection,19,High,7.3,0.86,Workstation,Unauthorized access   Data loss
+2023,XML External Entity (XXE),30,High,9.0,0.67,Cameras,System takeover   Privilege escalation
+2021,Server  Side Request Forgery,37,Low,9.8,0.51,Server,Privilege escalation   Denial    Service
+2022,SQL Injection,5,Low,7.5,0.92,Database,Unauthorized access   Data loss
+2023,Weak Cryptography,41,High,6.4,0.69,Firmware,Unauthorized access   System control
+2021,Cross  Site Request Forgery,34,High,6.5,0.9,Web Application,Unauthorized access   System control
+2021,Privilege Escalation,47,Low,5.5,0.68,Firmware,Sensitive data leak
+2022,Improper Input Validation,10,Medium,7.9,0.72,Database,Unauthorized access   System control
+2022,Privilege Escalation,34,Critical,7.3,0.69,IoT Devices,Sensitive data leak
+2021,XML External Entity (XXE),43,Low,4.3,0.59,Cameras,Unauthorized access   Data loss
+2022,Server  Side Request Forgery,37,Critical,9.4,0.72,Switch,Session hijacking
+2021,XML External Entity (XXE),32,Medium,4.1,0.61,Web Application,Sensitive data leak
+2021,Cross  Site Request Forgery,30,Medium,9.9,0.78,Workstation,Data theft   Remote code execution
+2022,Race Condition,48,Medium,9.3,0.65,Cameras,Sensitive data leak
+2021,Cross  Site Scripting,14,Low,5.0,0.58,Switch,Remote code execution
+2023,Improper Input Validation,5,Medium,4.4,0.85,Storage,Unauthorized access   System control
+2023,Insecure Direct Object Reference,34,Low,6.9,0.73,Web Application,Unauthorized access   System control
+2022,Misconfiguration    Security Headers,10,High,9.8,0.72,Cameras,Detection delay   Long  term impact
+2022,Information Disclosure,47,Low,5.7,0.86,Switch,Privilege escalation   Denial    Service
+2023,Information Disclosure,25,High,8.9,0.52,Cameras,System takeover   Privilege escalation
+2022,Information Disclosure,24,High,7.8,0.51,IoT Devices,Sensitive data leak
+2021,XML External Entity (XXE),38,Medium,6.1,0.6,Router,Detection delay   Long  term impact
+2023,Path Traversal,46,High,5.9,0.85,Server,Unauthorized access   Data loss
+2021,Directory Traversal,47,High,8.3,0.92,Web Application,Detection delay   Long  term impact
+2021,Insecure Deserialization,5,Medium,4.3,0.86,Web Application,Privilege escalation   Denial    Service
+2021,Misconfiguration    Security Headers,17,Critical,9.9,0.95,Server,Data exposure
+2021,Authentication Bypass,5,Critical,5.6,0.98,Database,Data exposure
+2021,Insufficient Logging   Monitoring,16,Medium,6.9,0.58,Firmware,Privilege escalation   Denial    Service
+2023,Comm  Injection,36,High,4.7,0.79,Web Application,Sensitive data leak
+2023,Insecure Deserialization,1,Critical,7.7,0.86,Workstation,Data exposure
+2022,Server  Side Request Forgery,22,Low,5.8,0.78,IoT Devices,Data exposure
+2021,Privilege Escalation,47,Critical,8.6,0.63,Server,Session hijacking
+2022,Insecure Direct Object Reference,26,Medium,5.1,0.97,Switch,Unauthorized access   Data loss
+2022,Comm  Injection,9,Medium,6.3,0.66,Cameras,Session hijacking
+2023,Comm  Injection,1,High,7.0,0.72,Storage,Session hijacking
+2021,Cross  Site Request Forgery,31,Medium,9.2,0.89,Web Application,Session hijacking
+2023,Path Traversal,2,Low,6.0,0.86,Web Application,Data exposure
+2021,Cross  Site Scripting,7,Low,5.4,0.83,Server,Unauthorized access   Data loss
+2022,Insecure Deserialization,15,High,6.4,0.58,Firmware,Privilege escalation   Denial    Service
+2022,Buffer Overflow,14,Medium,7.7,0.51,Web Application,Data exposure
+2022,Privilege Escalation,36,Low,6.8,0.74,Database,System takeover   Privilege escalation
+2023,Improper Input Validation,45,Critical,8.9,0.69,Cameras,Data exposure
+2022,Insecure Deserialization,33,High,6.6,0.95,Database,Remote code execution
+2023,Directory Traversal,44,Low,8.3,0.77,Storage,Detection delay   Long  term impact
+2021,Insecure Deserialization,47,Critical,9.9,0.78,Router,Session hijacking
+2021,Buffer Overflow,42,Low,5.4,0.88,Storage,System takeover   Privilege escalation
+2022,Improper Input Validation,31,Critical,9.9,0.97,Storage,Unauthorized access   Data loss
+2022,Weak Cryptography,37,High,9.7,0.66,Workstation,Detection delay   Long  term impact
+2022,XML External Entity (XXE),18,Low,5.0,0.94,Firmware,Unauthorized access   System control
+2023,Comm  Injection,45,Critical,4.9,0.81,Database,Sensitive data leak
+2021,Buffer Overflow,28,High,4.8,0.68,Web Application,Data exposure
+2021,Directory Traversal,15,Critical,4.9,0.78,Web Application,Session hijacking
+2022,Cross  Site Scripting,41,High,9.2,0.88,API,Unauthorized access   Data loss
+2022,Remote File Inclusion,22,High,4.3,0.95,IoT Devices,Detection delay   Long  term impact
+2022,Insufficient Logging   Monitoring,44,Medium,8.4,0.55,Web Application,Unauthorized access   Data loss
+2021,Misconfiguration    Security Headers,49,High,9.1,0.73,Cameras,Sensitive data leak
+2021,Buffer Overflow,11,Critical,4.2,0.89,Firmware,Data theft   Remote code execution
+2023,Insufficient Logging   Monitoring,12,Critical,9.0,0.82,Switch,Session hijacking
+2021,Server  Side Request Forgery,20,Critical,9.5,0.98,Firmware,Unauthorized access   System control
+2022,Insecure Direct Object Reference,45,Low,5.9,0.72,IoT Devices,Unauthorized access   System control
+2022,Improper Input Validation,14,Medium,4.5,0.74,Firmware,Data exposure
+2023,Server  Side Request Forgery,11,Medium,5.0,0.6,Web Application,Unauthorized access   System control
+2022,Authentication Bypass,26,Medium,5.1,0.62,Web Application,Unauthorized access   Data loss
+2023,Improper Input Validation,17,Low,8.6,0.92,IoT Devices,Remote code execution
+2023,Insecure Deserialization,7,Low,9.8,0.83,Database,Data exposure
+2022,Remote File Inclusion,36,Critical,9.6,0.98,Web Application,Data theft   Remote code execution
+2022,Buffer Overflow,7,Low,6.5,0.74,IoT Devices,Sensitive data leak
+2023,Improper Input Validation,48,High,6.5,0.93,Switch,Session hijacking
+2023,Remote File Inclusion,11,Critical,9.4,0.62,Workstation,Detection delay   Long  term impact
+2021,Path Traversal,5,Low,4.4,0.57,Cameras,Data exposure
+2023,Remote File Inclusion,50,Medium,6.9,0.62,Cameras,Privilege escalation   Denial    Service
+2021,Misconfiguration    Security Headers,9,High,8.0,0.94,IoT Devices,Sensitive data leak
+2022,Weak Cryptography,21,Medium,9.8,0.7,Router,Data theft   Remote code execution
+2022,Cross  Site Scripting,44,Low,9.0,0.88,Web Application,Data exposure
+2021,Insecure Deserialization,48,Low,4.4,0.89,Switch,Data exposure
+2022,Weak Cryptography,22,Low,4.4,0.83,Server,Unauthorized access   Data loss
+2021,Insufficient Logging   Monitoring,13,Critical,7.7,0.57,API,Unauthorized access   System control
+2021,Comm  Injection,24,High,8.4,0.65,Storage,System takeover   Privilege escalation
+2021,Buffer Overflow,35,Critical,6.3,0.64,API,Privilege escalation   Denial    Service
+2022,Insufficient Logging   Monitoring,14,Critical,7.9,0.79,Workstation,Data theft   Remote code execution
+2021,Insecure Direct Object Reference,2,Medium,9.9,0.8,Workstation,Session hijacking
+2021,Cross  Site Request Forgery,38,Critical,9.0,0.7,Cameras,Sensitive data leak
+2022,SQL Injection,5,Medium,8.1,0.96,Database,Privilege escalation   Denial    Service
+2021,Server  Side Request Forgery,21,Critical,8.7,0.53,Firmware,Data exposure
+2022,Cross  Site Request Forgery,2,Critical,9.6,0.72,API,Data exposure
+2021,Insufficient Logging   Monitoring,32,Critical,8.2,0.97,Firmware,Sensitive data leak
+2022,Race Condition,44,Critical,4.3,0.79,Server,Remote code execution
+2021,Remote File Inclusion,8,Low,6.5,0.63,Server,Data theft   Remote code execution
+2021,Race Condition,26,High,6.5,0.76,Web Application,Unauthorized access   Data loss
+2021,Remote File Inclusion,6,Low,9.2,0.91,Cameras,Detection delay   Long  term impact
+2021,Cross  Site Request Forgery,17,High,8.0,0.6,IoT Devices,Privilege escalation   Denial    Service
+2022,Directory Traversal,2,Low,7.7,0.74,Database,Sensitive data leak
+2023,Insecure Deserialization,20,Critical,5.6,0.6,Storage,Detection delay   Long  term impact
+2023,Insufficient Logging   Monitoring,33,Medium,9.3,0.81,Storage,Detection delay   Long  term impact
+2022,Authentication Bypass,50,High,5.7,0.7,Cameras,System takeover   Privilege escalation
+2021,Misconfiguration    Security Headers,16,High,4.5,0.83,Web Application,Privilege escalation   Denial    Service
+2023,Server  Side Request Forgery,14,Critical,6.8,0.87,Cameras,Unauthorized access   System control
+2021,Insecure Deserialization,36,Low,8.6,0.77,Web Application,Sensitive data leak
+2023,Directory Traversal,19,Critical,7.3,0.56,Server,Remote code execution
+2021,Misconfiguration    Security Headers,48,Medium,8.9,0.55,Web Application,Sensitive data leak
+2022,Cross  Site Request Forgery,17,High,7.6,0.84,Server,Data theft   Remote code execution
+2022,Comm  Injection,5,Medium,9.5,0.64,Firmware,Detection delay   Long  term impact
+2021,Privilege Escalation,12,Medium,7.6,0.59,Cameras,Session hijacking
+2021,Improper Input Validation,15,Low,5.8,0.5,Router,Data exposure
+2023,XML External Entity (XXE),48,Critical,9.6,0.7,Firmware,Unauthorized access   Data loss
+2022,Server  Side Request Forgery,8,Low,4.2,0.5,Database,Unauthorized access   System control
+2022,Server  Side Request Forgery,10,Medium,6.1,0.63,Router,Privilege escalation   Denial    Service
+2021,Remote File Inclusion,37,High,6.9,0.99,API,Data theft   Remote code execution
+2022,Cross  Site Scripting,24,Medium,7.4,0.79,Switch,Detection delay   Long  term impact
+2023,Insecure Direct Object Reference,35,High,8.6,0.63,Storage,Data exposure
+2023,Misconfiguration    Security Headers,11,Critical,8.8,0.83,Database,Unauthorized access   Data loss
+2022,Insufficient Logging   Monitoring,40,Medium,6.9,0.97,Cameras,Session hijacking
+2021,SQL Injection,20,Low,9.0,0.53,Router,Unauthorized access   Data loss
+2022,Comm  Injection,7,Medium,9.6,0.96,Router,Remote code execution
+2022,Cross  Site Scripting,17,High,8.9,0.55,Web Application,Privilege escalation   Denial    Service
+2022,Comm  Injection,35,Medium,9.4,0.73,IoT Devices,Privilege escalation   Denial    Service
+2022,Improper Input Validation,1,Low,5.6,0.59,Router,Remote code execution
+2022,Directory Traversal,47,Medium,8.0,0.68,API,Unauthorized access   System control
+2022,Buffer Overflow,33,Critical,10.0,0.84,Web Application,Unauthorized access   Data loss
+2021,Cross  Site Request Forgery,37,Critical,9.1,0.99,IoT Devices,Data theft   Remote code execution
+2021,Server  Side Request Forgery,29,Medium,7.7,0.7,Switch,Sensitive data leak
+2022,Cross  Site Scripting,9,High,7.3,0.84,Server,Unauthorized access   System control
+2023,Comm  Injection,15,Medium,4.9,0.9,Switch,Detection delay   Long  term impact
+2023,Information Disclosure,13,Medium,6.3,0.98,IoT Devices,Sensitive data leak
+2021,Buffer Overflow,29,Critical,4.1,0.89,API,Session hijacking
+2022,Directory Traversal,36,High,4.9,0.59,Web Application,System takeover   Privilege escalation
+2022,Insufficient Logging   Monitoring,15,Critical,7.4,0.74,IoT Devices,System takeover   Privilege escalation
+2023,Authentication Bypass,11,Critical,7.8,0.94,Web Application,Detection delay   Long  term impact
+2021,SQL Injection,24,High,6.1,0.53,Server,System takeover   Privilege escalation
+2021,Server  Side Request Forgery,5,Critical,9.7,0.54,Router,Data theft   Remote code execution
+2023,Weak Cryptography,39,High,7.7,0.78,Server,Remote code execution
+2021,Insufficient Logging   Monitoring,21,Medium,6.0,0.69,Database,System takeover   Privilege escalation
+2021,Cross  Site Scripting,40,Critical,9.7,0.84,Web Application,System takeover   Privilege escalation
+2023,Directory Traversal,48,Medium,6.7,0.96,Database,System takeover   Privilege escalation
+2022,Buffer Overflow,36,High,7.8,0.84,Switch,Data theft   Remote code execution
+2022,Improper Input Validation,36,Low,6.0,0.54,Storage,Data theft   Remote code execution
+2023,Server  Side Request Forgery,8,Critical,5.5,0.72,Firmware,Remote code execution
+2023,Buffer Overflow,41,Low,7.1,0.65,Switch,Data theft   Remote code execution
+2021,Comm  Injection,2,Critical,4.6,0.85,Switch,Privilege escalation   Denial    Service
+2022,Improper Input Validation,34,Medium,7.5,0.61,Router,Data theft   Remote code execution
+2021,Cross  Site Request Forgery,25,Critical,7.1,0.73,Server,Unauthorized access   Data loss
+2021,Comm  Injection,21,Medium,5.6,0.91,Database,Data exposure
+2023,Race Condition,6,Medium,6.7,0.78,Workstation,Data exposure
+2021,Improper Input Validation,32,Low,5.0,0.63,Server,Unauthorized access   Data loss
+2023,Weak Cryptography,35,Medium,4.5,0.51,IoT Devices,Remote code execution
+2023,XML External Entity (XXE),29,Medium,5.4,0.84,Router,Unauthorized access   Data loss
+2021,SQL Injection,19,Medium,5.1,0.83,Cameras,System takeover   Privilege escalation
+2023,Insecure Direct Object Reference,6,Medium,9.1,0.54,IoT Devices,Data theft   Remote code execution
+2021,Buffer Overflow,8,Medium,5.7,0.85,Web Application,System takeover   Privilege escalation
+2022,Improper Input Validation,16,High,6.0,0.94,Switch,Detection delay   Long  term impact
+2021,Buffer Overflow,26,Medium,9.7,0.59,Router,Unauthorized access   System control
+2022,Race Condition,43,Low,6.6,0.9,IoT Devices,Detection delay   Long  term impact
+2023,Directory Traversal,14,Critical,5.2,0.89,API,Session hijacking
+2023,Server  Side Request Forgery,49,Critical,8.0,0.64,Firmware,Session hijacking
+2021,Directory Traversal,49,Medium,4.9,0.64,Switch,Data theft   Remote code execution
+2022,XML External Entity (XXE),32,Critical,9.5,0.66,Server,Unauthorized access   System control
+2021,XML External Entity (XXE),5,Low,9.4,0.55,Storage,Data exposure
+2023,Insecure Direct Object Reference,31,Medium,5.1,0.77,Server,Detection delay   Long  term impact
+2021,Cross  Site Request Forgery,12,Critical,6.6,0.62,Workstation,Sensitive data leak
+2021,Comm  Injection,49,Medium,7.2,0.77,Firmware,Data exposure
+2022,Insecure Direct Object Reference,47,Medium,7.3,0.6,Router,Session hijacking
+2022,Path Traversal,5,Critical,7.1,0.75,Firmware,Data exposure
+2022,XML External Entity (XXE),34,Medium,7.0,0.81,Switch,Unauthorized access   Data loss
+2023,Directory Traversal,17,High,8.4,0.67,Switch,Remote code execution
+2022,Cross  Site Request Forgery,5,Low,8.4,0.7,Cameras,Privilege escalation   Denial    Service
+2022,Authentication Bypass,31,Low,9.1,0.55,Router,System takeover   Privilege escalation
+2023,Buffer Overflow,40,Critical,7.3,0.98,Cameras,Privilege escalation   Denial    Service
+2021,Weak Cryptography,11,Medium,5.9,1.0,Storage,Sensitive data leak
+2023,Insecure Deserialization,4,Critical,7.2,0.94,API,Unauthorized access   System control
+2022,Buffer Overflow,2,Critical,6.9,0.98,Database,Unauthorized access   Data loss
+2021,Path Traversal,30,Medium,6.5,0.69,Switch,System takeover   Privilege escalation
+2022,XML External Entity (XXE),34,High,7.5,0.52,IoT Devices,Privilege escalation   Denial    Service
+2021,Server  Side Request Forgery,2,High,7.7,0.99,Server,System takeover   Privilege escalation
+2022,Race Condition,31,Medium,7.1,0.87,Workstation,Unauthorized access   Data loss
+2022,XML External Entity (XXE),22,Low,4.0,0.93,Web Application,System takeover   Privilege escalation
+2023,Insufficient Logging   Monitoring,18,High,4.4,0.62,API,Detection delay   Long  term impact
+2021,Authentication Bypass,38,Medium,4.2,0.71,Storage,Sensitive data leak
+2021,Cross  Site Request Forgery,19,Low,8.1,0.87,Switch,Sensitive data leak
+2022,Insecure Direct Object Reference,42,Critical,5.7,0.93,Database,Data exposure
+2023,Insecure Direct Object Reference,3,Critical,9.8,0.77,Web Application,Data theft   Remote code execution
+2022,Misconfiguration    Security Headers,41,Critical,5.0,0.99,Storage,Remote code execution
+2022,Remote File Inclusion,22,Critical,8.4,0.81,Router,Detection delay   Long  term impact
+2022,Insecure Direct Object Reference,43,Low,7.2,0.71,Database,Session hijacking
+2022,Information Disclosure,23,Low,5.9,0.9,IoT Devices,System takeover   Privilege escalation
+2023,Cross  Site Request Forgery,16,Medium,7.7,0.58,Database,Detection delay   Long  term impact
+2021,Improper Input Validation,50,Critical,9.1,0.8,Workstation,Session hijacking
+2021,Path Traversal,6,Critical,7.4,0.84,Web Application,Unauthorized access   System control
+2023,Server  Side Request Forgery,48,High,7.7,0.54,Switch,Detection delay   Long  term impact
+2021,Weak Cryptography,47,Low,5.0,0.78,Cameras,Detection delay   Long  term impact
+2023,Cross  Site Request Forgery,49,Medium,8.6,0.72,Switch,Detection delay   Long  term impact
+2021,Information Disclosure,2,Low,5.8,0.81,Cameras,Detection delay   Long  term impact
+2021,Comm  Injection,44,Medium,8.2,0.82,API,Remote code execution
+2022,Server  Side Request Forgery,23,Critical,9.9,0.71,Switch,Unauthorized access   Data loss
+2022,Buffer Overflow,35,Medium,5.0,0.61,Firmware,System takeover   Privilege escalation
+2021,Misconfiguration    Security Headers,44,High,4.9,0.79,Firmware,Data theft   Remote code execution
+2021,Cross  Site Request Forgery,8,High,6.9,0.98,API,Detection delay   Long  term impact
+2021,Race Condition,36,Critical,5.4,0.97,Storage,Unauthorized access   System control
+2022,Cross  Site Request Forgery,28,Critical,7.2,0.6,Firmware,Session hijacking
+2021,Cross  Site Scripting,6,Low,4.1,0.87,IoT Devices,Sensitive data leak
+2021,Buffer Overflow,11,Medium,8.7,0.74,Database,Sensitive data leak
+2021,Improper Input Validation,23,Low,8.3,0.96,Database,Unauthorized access   System control
+2021,Weak Cryptography,32,Low,7.4,0.64,API,Data theft   Remote code execution
+2023,XML External Entity (XXE),47,High,8.7,0.59,Database,System takeover   Privilege escalation
+2023,Race Condition,35,High,5.7,0.95,API,System takeover   Privilege escalation
+2021,Cross  Site Scripting,33,Critical,7.5,0.79,IoT Devices,Sensitive data leak
+2023,Improper Input Validation,43,Critical,8.1,0.75,Web Application,Unauthorized access   System control
+2022,Privilege Escalation,8,Low,5.5,0.58,API,Data theft   Remote code execution
+2022,Cross  Site Scripting,6,High,10.0,0.62,Database,System takeover   Privilege escalation
+2023,SQL Injection,7,Low,8.7,0.5,Router,Privilege escalation   Denial    Service
+2023,Server  Side Request Forgery,47,High,7.7,0.54,Router,Remote code execution
+2021,Misconfiguration    Security Headers,8,Low,4.5,0.81,Server,Session hijacking
+2022,Insecure Deserialization,6,High,5.7,0.78,Cameras,Unauthorized access   System control
+2021,Authentication Bypass,34,Medium,6.2,0.77,Router,Sensitive data leak
+2021,Server  Side Request Forgery,29,Medium,4.9,0.67,Router,Sensitive data leak
+2022,Insecure Deserialization,16,Low,5.6,0.81,Firmware,Sensitive data leak
+2022,Cross  Site Request Forgery,29,High,6.4,0.59,IoT Devices,Unauthorized access   System control
+2022,Insufficient Logging   Monitoring,9,Critical,7.5,0.68,API,Unauthorized access   Data loss
+2023,Buffer Overflow,31,High,6.2,0.86,IoT Devices,System takeover   Privilege escalation
+2023,Insufficient Logging   Monitoring,1,Critical,4.7,0.98,API,Data exposure
+2023,XML External Entity (XXE),3,High,6.9,0.66,Router,Detection delay   Long  term impact
+2023,Privilege Escalation,34,High,4.9,0.91,IoT Devices,Unauthorized access   System control
+2023,Insecure Deserialization,6,Critical,4.0,0.71,Firmware,System takeover   Privilege escalation
+2023,Server  Side Request Forgery,36,High,7.7,0.64,API,Privilege escalation   Denial    Service
+2021,Remote File Inclusion,22,Low,7.5,0.95,Firmware,Privilege escalation   Denial    Service
+2021,Weak Cryptography,1,Low,8.4,0.95,IoT Devices,Session hijacking
+2021,XML External Entity (XXE),32,Critical,6.1,0.53,Firmware,Session hijacking
+2021,Remote File Inclusion,4,Medium,8.3,0.72,Cameras,Detection delay   Long  term impact
+2021,Information Disclosure,37,High,8.3,0.71,Storage,System takeover   Privilege escalation
+2023,Insecure Deserialization,49,Medium,9.7,0.7,Storage,Unauthorized access   System control
+2022,Authentication Bypass,41,Medium,8.9,0.61,Storage,Data theft   Remote code execution
+2022,Race Condition,47,Critical,8.3,0.88,Database,Unauthorized access   Data loss
+2021,Information Disclosure,41,Low,7.1,0.73,API,Privilege escalation   Denial    Service
+2023,Server  Side Request Forgery,50,Critical,8.8,0.98,API,System takeover   Privilege escalation
+2022,Directory Traversal,8,High,7.2,0.54,Workstation,Privilege escalation   Denial    Service
+2021,Insecure Direct Object Reference,8,High,8.4,0.97,Storage,Unauthorized access   Data loss
+2023,XML External Entity (XXE),22,Medium,9.0,0.86,Router,Remote code execution
+2023,Weak Cryptography,8,Low,5.4,0.97,API,Session hijacking
+2021,Information Disclosure,15,Medium,7.0,0.72,Server,Sensitive data leak
+2022,Race Condition,2,Medium,4.7,0.82,Workstation,Privilege escalation   Denial    Service
+2023,SQL Injection,7,Medium,5.1,0.56,Web Application,Remote code execution
+2022,Authentication Bypass,22,Medium,5.3,0.85,Server,Data theft   Remote code execution
+2023,Path Traversal,15,High,4.9,0.99,API,Unauthorized access   Data loss
+2023,Weak Cryptography,46,Low,9.8,0.63,Cameras,Remote code execution
+2023,Path Traversal,26,Low,5.4,0.77,API,Detection delay   Long  term impact
+2023,Directory Traversal,25,High,4.4,0.86,Web Application,Data theft   Remote code execution
+2022,XML External Entity (XXE),18,Medium,5.2,0.97,Web Application,Remote code execution
+2022,Insecure Direct Object Reference,6,Critical,6.0,0.67,Workstation,System takeover   Privilege escalation
+2022,Cross  Site Scripting,41,Critical,5.7,0.72,Workstation,Remote code execution
+2022,Race Condition,13,High,8.3,0.97,Switch,Unauthorized access   System control
+2021,Race Condition,17,High,5.6,0.98,API,Sensitive data leak
+2021,Path Traversal,36,High,8.0,0.72,Storage,Data theft   Remote code execution
+2021,SQL Injection,17,Low,7.2,0.84,Database,Sensitive data leak
+2023,XML External Entity (XXE),24,Low,9.9,0.77,Web Application,Data theft   Remote code execution
+2021,Insecure Deserialization,17,Low,8.9,0.86,Router,System takeover   Privilege escalation
+2021,Insufficient Logging   Monitoring,10,Critical,7.1,0.53,IoT Devices,System takeover   Privilege escalation
+2022,Race Condition,14,Medium,4.4,0.82,Router,Unauthorized access   System control
+2023,Server  Side Request Forgery,10,High,4.5,0.52,API,Sensitive data leak
+2022,Comm  Injection,24,Critical,5.7,0.71,Switch,System takeover   Privilege escalation
+2022,Cross  Site Scripting,50,Medium,7.5,0.9,IoT Devices,Session hijacking
+2023,XML External Entity (XXE),13,High,4.4,0.98,IoT Devices,Detection delay   Long  term impact
+2022,Information Disclosure,43,Medium,8.2,1.0,Cameras,Data theft   Remote code execution
+2021,Comm  Injection,13,Medium,9.9,0.83,Database,Remote code execution
+2022,Weak Cryptography,13,Low,7.1,0.6,API,Unauthorized access   Data loss
+2022,Race Condition,2,Medium,10.0,0.67,IoT Devices,Session hijacking
+2022,Improper Input Validation,48,Low,7.5,0.91,API,Detection delay   Long  term impact
+2022,Directory Traversal,49,Critical,8.5,0.7,API,Data exposure
+2022,Improper Input Validation,48,Medium,5.6,0.59,Web Application,Detection delay   Long  term impact
+2023,Improper Input Validation,28,Low,4.7,0.6,Firmware,Remote code execution
+2021,Insufficient Logging   Monitoring,15,Low,6.2,0.96,Storage,Remote code execution
+2023,Weak Cryptography,32,Low,8.1,0.65,Router,Remote code execution
+2021,Insecure Deserialization,15,Medium,5.4,0.85,Switch,Session hijacking
+2023,Comm  Injection,50,Critical,5.4,0.93,Database,Unauthorized access   Data loss
+2022,Information Disclosure,24,High,7.1,0.74,Switch,Unauthorized access   Data loss
+2021,Cross  Site Scripting,5,Low,8.0,0.86,Firmware,Remote code execution
+2022,Privilege Escalation,8,Medium,4.0,0.99,Switch,Unauthorized access   Data loss
+2023,Insufficient Logging   Monitoring,46,Medium,7.8,0.52,Workstation,Session hijacking
+2022,Privilege Escalation,36,Low,9.2,0.77,Storage,System takeover   Privilege escalation
+2023,Insecure Deserialization,32,Critical,9.1,0.89,Server,System takeover   Privilege escalation
+2021,Weak Cryptography,6,High,5.1,0.82,Switch,Session hijacking
+2022,Remote File Inclusion,12,Low,9.7,0.73,API,Detection delay   Long  term impact
+2021,Buffer Overflow,50,Low,4.8,0.89,Router,Unauthorized access   System control
+2023,SQL Injection,32,Medium,4.5,0.61,Switch,Privilege escalation   Denial    Service
+2023,XML External Entity (XXE),31,High,6.9,0.62,Database,Session hijacking
+2023,Insecure Deserialization,46,Medium,7.6,0.64,IoT Devices,System takeover   Privilege escalation
+2023,Authentication Bypass,12,Medium,4.2,0.99,Database,Sensitive data leak
+2023,Buffer Overflow,21,High,7.9,0.88,Storage,System takeover   Privilege escalation
+2021,Insecure Deserialization,39,Low,6.6,0.82,Storage,System takeover   Privilege escalation
+2023,Comm  Injection,45,Low,9.8,0.63,Switch,Sensitive data leak
+2023,Misconfiguration    Security Headers,7,High,6.5,0.83,API,Detection delay   Long  term impact
+2022,Path Traversal,39,Critical,4.4,0.86,Cameras,Privilege escalation   Denial    Service
+2023,Authentication Bypass,5,Low,9.4,0.65,API,System takeover   Privilege escalation
+2022,Directory Traversal,20,Low,8.9,0.86,Server,Unauthorized access   System control
+2021,SQL Injection,41,Critical,6.9,0.92,Web Application,Remote code execution
+2022,Information Disclosure,37,Critical,7.2,0.82,API,Detection delay   Long  term impact
+2022,Privilege Escalation,9,Medium,8.3,0.69,Firmware,Remote code execution
+2022,Improper Input Validation,47,Low,6.3,0.98,Cameras,Detection delay   Long  term impact
+2023,Privilege Escalation,48,Critical,9.3,0.71,Storage,Privilege escalation   Denial    Service
+2023,Race Condition,43,Medium,5.7,0.73,Cameras,Detection delay   Long  term impact
+2023,Directory Traversal,4,Low,8.9,0.74,IoT Devices,Data theft   Remote code execution
+2022,Information Disclosure,45,High,4.3,0.71,Router,Sensitive data leak
+2022,Weak Cryptography,4,Critical,4.0,0.59,Cameras,Data theft   Remote code execution
+2021,Authentication Bypass,9,Medium,5.0,0.96,Database,Data exposure
+2023,Authentication Bypass,29,Medium,6.7,0.91,Storage,Session hijacking
+2022,Insufficient Logging   Monitoring,40,High,9.3,0.55,Cameras,Privilege escalation   Denial    Service
+2023,Information Disclosure,36,Critical,7.3,0.84,Server,Unauthorized access   System control
+2021,Path Traversal,12,Medium,9.1,0.98,API,Unauthorized access   System control
+2023,Directory Traversal,18,Medium,9.1,0.84,Router,Unauthorized access   Data loss
+2022,Buffer Overflow,35,Critical,6.0,0.62,Web Application,System takeover   Privilege escalation
+2023,Improper Input Validation,1,High,8.6,0.6,Web Application,Data theft   Remote code execution
+2023,Improper Input Validation,28,Critical,9.4,0.58,Cameras,Remote code execution
+2023,Remote File Inclusion,8,Low,4.2,0.92,Workstation,Data theft   Remote code execution
+2021,Insufficient Logging   Monitoring,22,Critical,9.6,0.54,Firmware,Data theft   Remote code execution
+2022,Information Disclosure,4,Critical,4.7,0.81,IoT Devices,Sensitive data leak
+2021,Cross  Site Request Forgery,36,Low,7.6,0.9,Switch,Unauthorized access   System control
+2021,Insufficient Logging   Monitoring,31,Medium,4.7,0.83,Web Application,Detection delay   Long  term impact
+2021,Authentication Bypass,48,Low,6.7,0.79,Router,Unauthorized access   Data loss
+2021,Path Traversal,41,High,5.7,0.93,Server,Data theft   Remote code execution
+2023,Authentication Bypass,9,High,8.6,0.64,Firmware,System takeover   Privilege escalation
+2022,Insecure Deserialization,18,Low,9.5,0.61,Database,System takeover   Privilege escalation
+2022,Information Disclosure,38,High,7.5,0.99,Storage,Data exposure
+2023,Directory Traversal,18,Medium,7.2,0.66,Web Application,Unauthorized access   Data loss
+2021,Cross  Site Scripting,40,High,8.0,0.89,Firmware,Remote code execution
+2021,Information Disclosure,29,Medium,8.8,0.61,Firmware,Unauthorized access   Data loss
+2023,Improper Input Validation,6,High,4.1,0.74,API,Detection delay   Long  term impact
+2023,Weak Cryptography,9,Low,6.4,0.71,Router,System takeover   Privilege escalation
+2022,Comm  Injection,47,Medium,8.4,0.52,Cameras,Session hijacking
+2022,Insecure Direct Object Reference,25,High,8.6,0.84,Storage,Detection delay   Long  term impact
+2023,Information Disclosure,46,Low,8.2,0.54,Router,Session hijacking
+2023,Insecure Deserialization,5,Medium,7.5,0.66,Server,Data exposure
+2021,Insecure Deserialization,48,Medium,7.1,0.56,Workstation,Unauthorized access   Data loss
+2022,Buffer Overflow,34,High,5.5,0.88,Firmware,Unauthorized access   Data loss
+2022,Information Disclosure,48,Critical,9.1,0.75,Storage,Data theft   Remote code execution
+2023,Improper Input Validation,32,Low,4.7,0.92,Web Application,Session hijacking
+2021,Authentication Bypass,3,Critical,6.3,0.99,Router,Detection delay   Long  term impact
+2022,Insecure Deserialization,2,Critical,8.9,0.88,Server,Data exposure
+2021,Weak Cryptography,6,High,6.5,0.68,Workstation,Data exposure
+2022,Server  Side Request Forgery,44,Low,8.7,0.74,Firmware,Detection delay   Long  term impact
+2021,Cross  Site Scripting,38,Low,9.7,0.73,Switch,Privilege escalation   Denial    Service
+2023,Insufficient Logging   Monitoring,26,Medium,7.3,0.92,Workstation,Unauthorized access   Data loss
+2023,Server  Side Request Forgery,15,Critical,6.3,0.68,Switch,System takeover   Privilege escalation
+2023,Information Disclosure,2,Critical,6.7,0.77,Storage,Unauthorized access   System control
+2021,SQL Injection,5,Critical,8.8,0.87,Database,Detection delay   Long  term impact
+2021,Insecure Direct Object Reference,27,Low,6.7,0.62,Workstation,Data theft   Remote code execution
+2023,SQL Injection,12,Medium,8.8,0.91,Switch,System takeover   Privilege escalation
+2022,Weak Cryptography,22,Critical,9.2,0.91,API,Remote code execution
+2021,Path Traversal,45,High,5.2,0.65,Workstation,Data theft   Remote code execution
+2021,Buffer Overflow,5,Low,7.7,0.71,Workstation,System takeover   Privilege escalation
+2023,Cross  Site Scripting,26,Medium,8.4,0.6,Storage,Unauthorized access   Data loss
+2023,Insecure Deserialization,4,High,9.7,0.69,Server,Sensitive data leak
+2022,Server  Side Request Forgery,1,High,4.6,0.94,Firmware,Session hijacking
+2022,XML External Entity (XXE),26,Medium,7.6,0.59,Workstation,System takeover   Privilege escalation
+2023,Privilege Escalation,42,Medium,8.8,0.74,Cameras,Data theft   Remote code execution
+2022,Remote File Inclusion,14,High,5.9,0.83,Firmware,Unauthorized access   Data loss
+2021,Misconfiguration    Security Headers,42,High,8.3,0.57,IoT Devices,System takeover   Privilege escalation
+2021,Insecure Direct Object Reference,17,Low,6.0,0.86,Web Application,Detection delay   Long  term impact
+2021,Insufficient Logging   Monitoring,3,Critical,7.3,0.65,API,Unauthorized access   Data loss
+2022,Authentication Bypass,10,High,5.4,0.62,Firmware,Detection delay   Long  term impact
+2022,Insecure Direct Object Reference,11,High,4.9,0.7,Firmware,Unauthorized access   System control
+2021,Insufficient Logging   Monitoring,6,Medium,8.1,0.77,Database,Remote code execution
+2022,Comm  Injection,9,Critical,9.0,0.91,Database,Data theft   Remote code execution
+2022,Path Traversal,13,Critical,8.5,0.6,Web Application,Detection delay   Long  term impact
+2023,Insecure Deserialization,7,Critical,4.3,0.87,Firmware,System takeover   Privilege escalation
+2022,Cross  Site Scripting,29,Medium,6.1,0.83,IoT Devices,Session hijacking
+2021,Buffer Overflow,26,High,6.6,1.0,Switch,System takeover   Privilege escalation
+2023,XML External Entity (XXE),45,High,6.8,0.52,Cameras,Unauthorized access   System control
+2021,Comm  Injection,30,Medium,7.0,0.62,Workstation,Data theft   Remote code execution
+2022,Race Condition,8,Critical,7.9,0.73,Server,Data theft   Remote code execution
+2023,Comm  Injection,26,Critical,4.8,0.61,Database,Unauthorized access   System control
+2022,Insecure Deserialization,32,High,4.9,0.67,Cameras,Session hijacking
+2021,Improper Input Validation,47,High,8.0,0.52,Server,Unauthorized access   Data loss
+2021,Buffer Overflow,30,Critical,5.0,0.96,API,System takeover   Privilege escalation
+2022,Race Condition,18,Medium,9.1,0.87,Workstation,Privilege escalation   Denial    Service
+2021,Insecure Deserialization,31,Critical,5.0,0.85,Workstation,Unauthorized access   System control
+2021,Information Disclosure,16,Critical,5.0,0.54,IoT Devices,Session hijacking
+2023,Insecure Direct Object Reference,22,Critical,6.2,0.55,Cameras,Data theft   Remote code execution
+2023,Insecure Direct Object Reference,20,Medium,7.5,1.0,Firmware,Remote code execution
+2023,Insecure Deserialization,12,Medium,7.2,0.56,Firmware,Data theft   Remote code execution
+2022,Privilege Escalation,14,High,7.8,0.89,IoT Devices,Privilege escalation   Denial    Service
+2022,Information Disclosure,40,Medium,6.8,0.87,Web Application,Privilege escalation   Denial    Service
+2023,Cross  Site Request Forgery,32,Critical,7.0,0.8,Switch,System takeover   Privilege escalation
+2023,Race Condition,3,Medium,8.4,0.96,Cameras,Session hijacking
+2023,Privilege Escalation,50,Low,6.4,0.81,IoT Devices,Data theft   Remote code execution
+2023,Comm  Injection,37,High,6.4,0.72,Firmware,Remote code execution
+2021,Misconfiguration    Security Headers,9,High,4.7,0.94,IoT Devices,Data exposure
+2023,Insecure Deserialization,23,Low,9.2,0.77,Cameras,Unauthorized access   Data loss
+2022,Cross  Site Scripting,5,Critical,6.5,0.79,Cameras,Sensitive data leak
+2021,Race Condition,20,High,5.6,0.53,Server,Data exposure
+2022,Insecure Direct Object Reference,28,Critical,7.5,0.73,Web Application,Sensitive data leak
+2023,Privilege Escalation,33,Critical,6.2,0.6,Database,Data exposure
+2021,Misconfiguration    Security Headers,35,Critical,6.3,0.65,IoT Devices,Data exposure
+2021,Comm  Injection,34,Low,7.1,0.9,Database,Unauthorized access   Data loss
+2022,Race Condition,20,Low,5.0,0.96,IoT Devices,Session hijacking
+2023,Race Condition,12,Low,5.0,0.96,API,Data theft   Remote code execution
+2022,XML External Entity (XXE),33,Low,5.1,0.87,Cameras,Data exposure
+2021,Insecure Deserialization,33,Medium,4.9,0.62,Database,System takeover   Privilege escalation
+2021,Comm  Injection,7,Low,8.4,0.66,Database,Detection delay   Long  term impact
+2023,Buffer Overflow,19,Low,7.6,0.93,Router,System takeover   Privilege escalation
+2023,Information Disclosure,13,High,6.4,0.54,API,System takeover   Privilege escalation
+2023,SQL Injection,15,Low,7.2,0.79,Switch,Unauthorized access   System control
+2023,Misconfiguration    Security Headers,38,Low,8.2,0.76,Web Application,Session hijacking
+2021,XML External Entity (XXE),19,Medium,6.7,0.89,Cameras,Unauthorized access   System control
+2021,Improper Input Validation,35,High,9.2,0.68,Web Application,Data exposure
+2022,Buffer Overflow,26,Low,4.4,0.66,Router,Data exposure
+2022,Directory Traversal,9,Medium,6.4,0.87,API,Session hijacking
+2023,Insecure Deserialization,33,High,4.9,0.73,Router,Sensitive data leak
+2023,SQL Injection,26,Low,7.5,0.89,IoT Devices,Data theft   Remote code execution
+2021,Cross  Site Scripting,15,Critical,7.2,0.83,Router,Data theft   Remote code execution
+2023,Improper Input Validation,33,High,7.4,0.96,Switch,Data theft   Remote code execution
+2023,Privilege Escalation,13,Medium,5.0,0.74,API,Data exposure
+2023,Weak Cryptography,6,Critical,8.1,0.68,Cameras,Privilege escalation   Denial    Service
+2022,Misconfiguration    Security Headers,18,Medium,5.3,0.71,Workstation,Sensitive data leak
+2022,Insufficient Logging   Monitoring,5,Medium,6.2,0.51,API,Session hijacking
+2023,Authentication Bypass,19,Critical,4.8,0.9,Router,Data exposure
+2022,Improper Input Validation,3,High,7.7,0.8,IoT Devices,Sensitive data leak
+2023,Remote File Inclusion,24,High,6.5,0.53,Database,Unauthorized access   Data loss
+2022,Improper Input Validation,32,High,4.6,0.57,Server,System takeover   Privilege escalation
+2023,Privilege Escalation,8,High,9.5,0.96,Server,Remote code execution
+2021,Cross  Site Scripting,34,High,5.0,0.73,Storage,Detection delay   Long  term impact
+2022,Buffer Overflow,22,Medium,6.6,0.74,Router,Sensitive data leak
+2022,Information Disclosure,21,High,8.2,0.85,Server,System takeover   Privilege escalation
+2023,XML External Entity (XXE),12,Medium,4.2,0.94,Firmware,Data exposure
+2023,Insufficient Logging   Monitoring,50,High,9.3,0.85,Firmware,Sensitive data leak
+2023,Comm  Injection,28,Low,5.7,0.67,Cameras,Session hijacking
+2022,Weak Cryptography,9,Medium,5.0,0.74,Storage,Sensitive data leak
+2023,Improper Input Validation,45,Low,8.1,0.85,Database,Unauthorized access   Data loss
+2023,Remote File Inclusion,35,Critical,6.8,0.64,Server,Data theft   Remote code execution
+2023,Insecure Direct Object Reference,33,Low,8.5,0.7,Database,Remote code execution
+2023,Cross  Site Request Forgery,26,Critical,7.1,0.89,Workstation,Remote code execution
+2021,Comm  Injection,20,Medium,4.6,0.57,IoT Devices,Detection delay   Long  term impact
+2023,Improper Input Validation,17,Low,6.7,0.75,API,Remote code execution
+2022,XML External Entity (XXE),43,Medium,8.2,0.63,Firmware,Sensitive data leak
+2022,Buffer Overflow,4,Medium,8.3,0.56,Database,Detection delay   Long  term impact
+2022,Comm  Injection,22,Low,9.7,0.76,Switch,Sensitive data leak
+2022,Cross  Site Scripting,13,Critical,9.9,0.8,IoT Devices,Sensitive data leak
+2022,Cross  Site Request Forgery,21,Critical,4.2,0.79,Storage,Data exposure
+2021,Server  Side Request Forgery,49,Critical,7.3,0.53,API,Unauthorized access   System control
+2021,Directory Traversal,2,Critical,4.9,0.82,Workstation,Unauthorized access   System control
+2023,Weak Cryptography,5,Medium,6.3,0.79,Database,System takeover   Privilege escalation
+2022,Insufficient Logging   Monitoring,12,Critical,8.4,0.95,Switch,Unauthorized access   System control
+2021,Insecure Direct Object Reference,41,Medium,7.7,0.85,Database,Sensitive data leak
+2023,Buffer Overflow,30,Low,5.8,0.56,Database,Unauthorized access   Data loss
+2023,Comm  Injection,28,High,6.7,0.56,Database,Session hijacking
+2023,Race Condition,33,Medium,8.9,0.97,Router,Unauthorized access   Data loss
+2021,Path Traversal,1,Critical,6.8,0.86,Database,Unauthorized access   Data loss
+2022,XML External Entity (XXE),42,Medium,6.9,0.93,Router,Unauthorized access   Data loss
+2023,Privilege Escalation,20,Critical,8.0,0.98,Switch,Remote code execution
+2022,Buffer Overflow,22,Medium,5.9,0.76,Firmware,Data exposure
+2022,Weak Cryptography,35,Medium,4.7,0.71,Router,Unauthorized access   Data loss
+2021,XML External Entity (XXE),25,Critical,8.1,0.83,Database,Session hijacking
+2021,Information Disclosure,15,Medium,6.1,0.96,Server,Detection delay   Long  term impact
+2021,Insufficient Logging   Monitoring,44,Medium,4.8,0.7,Server,Remote code execution
+2022,Server  Side Request Forgery,48,Low,6.3,0.74,Firmware,Data theft   Remote code execution
+2021,Cross  Site Scripting,46,Critical,5.1,0.83,Server,Detection delay   Long  term impact
+2022,Cross  Site Scripting,38,Medium,7.1,0.78,Server,Remote code execution
+2022,Insecure Deserialization,4,Low,5.9,0.76,Database,Data theft   Remote code execution
+2023,Misconfiguration    Security Headers,29,Medium,7.0,0.87,Storage,Sensitive data leak
+2023,Comm  Injection,20,Medium,5.3,0.82,Server,Sensitive data leak
+2021,Improper Input Validation,19,Critical,7.7,0.93,Workstation,Privilege escalation   Denial    Service
+2021,Insecure Direct Object Reference,46,Medium,5.7,0.57,Database,Unauthorized access   System control
+2022,Race Condition,20,Low,5.4,0.63,API,Detection delay   Long  term impact
+2021,Insufficient Logging   Monitoring,30,Critical,9.7,0.9,Server,Data theft   Remote code execution
+2023,Privilege Escalation,4,High,5.6,0.59,Web Application,Session hijacking
+2023,Improper Input Validation,31,High,7.7,0.63,Cameras,Detection delay   Long  term impact
+2021,Path Traversal,11,Medium,9.0,0.94,API,Remote code execution
+2021,Misconfiguration    Security Headers,2,Critical,5.5,0.84,API,Unauthorized access   System control
+2021,Cross  Site Scripting,30,Low,5.7,0.93,Cameras,System takeover   Privilege escalation
+2023,Misconfiguration    Security Headers,5,High,5.1,0.7,Switch,Remote code execution
+2022,Authentication Bypass,24,Critical,5.7,0.74,Web Application,Detection delay   Long  term impact
+2023,Directory Traversal,31,Critical,6.1,0.72,Server,Unauthorized access   System control
+2023,SQL Injection,23,Critical,7.6,0.97,Server,Session hijacking
+2023,SQL Injection,19,Critical,5.2,0.51,Database,Remote code execution
+2021,Authentication Bypass,37,Low,7.6,0.58,IoT Devices,Unauthorized access   System control
+2021,Buffer Overflow,29,Critical,5.3,0.69,Switch,Sensitive data leak
+2023,Directory Traversal,33,Low,8.5,0.7,Database,System takeover   Privilege escalation
+2023,Improper Input Validation,25,Low,8.6,0.69,Workstation,System takeover   Privilege escalation
+2022,SQL Injection,31,Low,7.0,0.61,API,Data exposure
+2021,XML External Entity (XXE),19,Medium,6.6,0.88,IoT Devices,Detection delay   Long  term impact
+2023,SQL Injection,8,Low,6.8,0.63,Router,Detection delay   Long  term impact
+2023,Remote File Inclusion,7,High,6.5,0.66,Server,Remote code execution
+2022,Race Condition,40,Medium,9.3,0.83,Workstation,Session hijacking
+2021,Cross  Site Scripting,3,Low,4.7,0.89,IoT Devices,Data exposure
+2021,Insecure Deserialization,48,Low,4.7,0.61,Switch,Data theft   Remote code execution
+2021,Directory Traversal,32,Critical,9.4,0.56,Switch,System takeover   Privilege escalation
+2023,Information Disclosure,50,Critical,9.2,0.78,Workstation,Detection delay   Long  term impact
+2023,Remote File Inclusion,15,Critical,5.1,0.71,Web Application,Detection delay   Long  term impact
+2021,Path Traversal,5,High,9.0,0.65,Router,Unauthorized access   Data loss
+2021,XML External Entity (XXE),25,Medium,9.6,0.91,Database,Sensitive data leak
+2022,Misconfiguration    Security Headers,46,High,9.2,0.81,API,Data theft   Remote code execution
+2023,Directory Traversal,11,Critical,6.0,0.78,Web Application,Privilege escalation   Denial    Service
+2023,Insecure Direct Object Reference,26,Low,5.3,0.5,Firmware,System takeover   Privilege escalation
+2021,Insecure Direct Object Reference,32,Medium,5.1,0.93,IoT Devices,Data exposure
+2023,Race Condition,50,Medium,7.4,0.74,Database,Data theft   Remote code execution
+2022,Race Condition,43,High,7.7,0.63,Cameras,Sensitive data leak
+2023,Authentication Bypass,42,Medium,9.2,0.88,Workstation,Sensitive data leak
+2022,Remote File Inclusion,10,Low,4.2,1.0,API,Privilege escalation   Denial    Service
+2021,Insecure Deserialization,15,High,8.7,0.78,Web Application,Unauthorized access   Data loss
+2021,Remote File Inclusion,13,Critical,7.0,0.51,Firmware,Detection delay   Long  term impact
+2023,Race Condition,34,Critical,9.1,0.85,Storage,Unauthorized access   Data loss
+2021,Remote File Inclusion,22,Medium,7.6,0.68,Router,Data theft   Remote code execution
+2022,Insecure Deserialization,39,Low,6.5,0.9,Cameras,Data exposure
+2021,Race Condition,9,Medium,5.6,0.69,Router,Remote code execution
+2023,Cross  Site Request Forgery,2,Medium,8.4,0.86,Cameras,Privilege escalation   Denial    Service
+2022,Cross  Site Request Forgery,39,Medium,7.3,0.56,Server,Unauthorized access   System control
+2022,SQL Injection,28,Low,6.6,0.87,Server,System takeover   Privilege escalation
+2022,Comm  Injection,23,High,4.3,0.89,Web Application,Privilege escalation   Denial    Service
+2022,SQL Injection,47,High,8.7,0.82,IoT Devices,Data exposure
+2021,Misconfiguration    Security Headers,48,High,9.9,0.89,Database,Remote code execution
+2022,Comm  Injection,15,Critical,7.1,0.51,Web Application,System takeover   Privilege escalation
+2022,SQL Injection,41,High,7.5,0.53,Switch,Unauthorized access   Data loss
+2021,SQL Injection,25,Medium,8.0,0.8,Switch,Data theft   Remote code execution
+2022,Cross  Site Scripting,13,Medium,4.7,0.65,API,Remote code execution
+2023,Weak Cryptography,21,Medium,6.5,0.6,Switch,Sensitive data leak
+2023,Directory Traversal,47,Critical,6.2,0.98,IoT Devices,Unauthorized access   System control
+2023,Path Traversal,28,Critical,9.0,0.72,Storage,Unauthorized access   System control
+2021,Insecure Deserialization,20,Critical,9.1,0.86,Switch,Session hijacking
+2021,Race Condition,11,Medium,6.2,0.93,API,Data theft   Remote code execution
+2022,Improper Input Validation,26,Medium,9.3,1.0,Storage,Data theft   Remote code execution
+2023,Race Condition,11,Low,7.9,0.98,Database,Privilege escalation   Denial    Service
+2021,Privilege Escalation,20,Low,9.8,0.81,Workstation,Detection delay   Long  term impact
+2023,XML External Entity (XXE),22,Critical,4.9,0.79,Database,Unauthorized access   Data loss
+2021,Server  Side Request Forgery,4,High,7.7,0.95,Switch,Data exposure
+2023,Insecure Direct Object Reference,15,Medium,8.0,0.59,Storage,Data theft   Remote code execution
+2023,Misconfiguration    Security Headers,49,High,9.8,0.85,Storage,Unauthorized access   System control
+2021,Path Traversal,39,High,7.2,0.67,API,Data exposure
+2022,Weak Cryptography,14,Low,9.6,0.8,Firmware,Detection delay   Long  term impact
+2023,Information Disclosure,36,Medium,6.0,0.98,API,Unauthorized access   Data loss
+2021,Improper Input Validation,43,Medium,8.9,0.82,Server,Session hijacking
+2021,XML External Entity (XXE),35,High,9.2,0.59,Web Application,Data theft   Remote code execution
+2022,Insecure Direct Object Reference,12,Critical,8.1,0.56,API,Session hijacking
+2023,Insecure Direct Object Reference,33,Low,8.3,0.62,Web Application,Remote code execution
+2021,Comm  Injection,7,High,7.9,0.68,Server,Sensitive data leak
+2021,XML External Entity (XXE),32,Medium,5.9,0.97,Switch,Privilege escalation   Denial    Service
+2023,Cross  Site Scripting,13,Critical,4.6,0.84,Server,System takeover   Privilege escalation
+2022,Server  Side Request Forgery,30,Low,7.1,0.52,Router,System takeover   Privilege escalation
+2021,Insecure Direct Object Reference,25,High,8.1,0.86,Web Application,System takeover   Privilege escalation
+2022,Server  Side Request Forgery,32,High,5.0,0.88,Firmware,Detection delay   Long  term impact
+2021,Weak Cryptography,11,Medium,7.2,0.88,IoT Devices,System takeover   Privilege escalation
+2022,Information Disclosure,19,Low,7.9,0.66,Workstation,Detection delay   Long  term impact
+2023,Information Disclosure,17,Critical,9.6,0.83,Firmware,Session hijacking
+2023,Buffer Overflow,10,Critical,9.1,0.65,Workstation,Unauthorized access   Data loss
+2021,Weak Cryptography,21,Medium,6.2,0.79,Workstation,Remote code execution
+2023,SQL Injection,44,Medium,7.1,0.64,Router,Detection delay   Long  term impact
+2021,Insecure Deserialization,8,Low,4.7,0.72,Switch,Session hijacking
+2021,Path Traversal,46,High,8.3,0.88,Router,Session hijacking
+2022,Remote File Inclusion,37,Medium,5.3,0.72,Server,Data theft   Remote code execution
+2022,Comm  Injection,7,High,9.7,0.81,Storage,Remote code execution
+2022,Cross  Site Request Forgery,38,High,4.3,0.55,Server,System takeover   Privilege escalation
+2023,Buffer Overflow,27,Low,4.6,0.64,Database,System takeover   Privilege escalation
+2023,Path Traversal,32,Low,9.0,0.93,API,Unauthorized access   Data loss
+2022,Insufficient Logging   Monitoring,1,High,6.6,0.72,IoT Devices,Data exposure
+2022,Privilege Escalation,10,Critical,6.2,0.92,IoT Devices,Remote code execution
+2023,Buffer Overflow,4,Medium,5.2,0.56,Workstation,Data exposure
+2022,Insufficient Logging   Monitoring,25,Medium,5.7,0.99,API,Detection delay   Long  term impact
+2023,Comm  Injection,8,Low,9.3,0.64,Database,Detection delay   Long  term impact
+2023,Information Disclosure,50,Medium,4.2,0.56,Database,Data exposure
+2023,Directory Traversal,24,Low,8.6,0.58,Database,Data exposure
+2023,Misconfiguration    Security Headers,34,Medium,9.3,0.58,Workstation,Data theft   Remote code execution
+2022,Insufficient Logging   Monitoring,3,High,4.1,0.82,Workstation,Unauthorized access   Data loss
+2021,Improper Input Validation,3,Low,5.0,0.92,Storage,Remote code execution
+2021,Race Condition,49,Medium,7.3,0.55,Switch,Unauthorized access   System control
+2023,Remote File Inclusion,19,Medium,4.1,0.93,Web Application,Session hijacking
+2023,Race Condition,37,Critical,5.2,0.94,Storage,Sensitive data leak
+2023,Server  Side Request Forgery,48,High,5.6,0.79,Server,Remote code execution
+2023,Race Condition,48,High,8.7,0.89,API,System takeover   Privilege escalation
+2021,Weak Cryptography,25,High,7.7,0.58,Database,Detection delay   Long  term impact
+2022,Insufficient Logging   Monitoring,44,Low,7.8,0.81,Cameras,Detection delay   Long  term impact
+2021,Weak Cryptography,15,Medium,5.4,0.97,Switch,Data exposure
+2022,Remote File Inclusion,33,High,6.8,0.69,Cameras,Remote code execution
+2021,SQL Injection,15,Critical,5.6,0.85,IoT Devices,Detection delay   Long  term impact
+2022,Insufficient Logging   Monitoring,17,Medium,5.8,0.52,Switch,Data theft   Remote code execution
+2023,Information Disclosure,28,Medium,4.7,0.64,Database,Data theft   Remote code execution
+2021,Insecure Direct Object Reference,40,High,7.6,0.82,API,Data exposure
+2022,Insufficient Logging   Monitoring,3,High,6.9,0.92,Cameras,Sensitive data leak
+2021,Cross  Site Request Forgery,39,Critical,6.5,0.76,Server,System takeover   Privilege escalation
+2023,Remote File Inclusion,18,Low,7.9,0.99,Server,System takeover   Privilege escalation
+2021,Server  Side Request Forgery,1,Medium,4.5,0.93,Server,Detection delay   Long  term impact
+2023,Path Traversal,50,Low,5.2,0.84,API,Data theft   Remote code execution
+2022,Insecure Deserialization,47,Medium,9.2,0.69,API,System takeover   Privilege escalation
+2021,Privilege Escalation,49,High,6.3,0.6,Server,Unauthorized access   Data loss
+2021,Insecure Direct Object Reference,21,High,5.4,0.64,Server,Sensitive data leak
+2023,Insufficient Logging   Monitoring,29,High,7.3,0.74,Cameras,Remote code execution
+2021,Authentication Bypass,43,Low,8.5,0.65,Firmware,Remote code execution
+2021,Path Traversal,35,High,4.1,0.52,Firmware,Unauthorized access   System control
+2021,Insufficient Logging   Monitoring,9,High,9.1,0.65,API,Detection delay   Long  term impact
+2021,Weak Cryptography,23,Medium,9.4,0.59,Server,Sensitive data leak
+2021,Cross  Site Scripting,20,High,6.1,0.81,Router,Unauthorized access   Data loss
+2021,Server  Side Request Forgery,1,High,5.8,0.57,Storage,Unauthorized access   System control
+2021,Misconfiguration    Security Headers,31,Low,9.2,0.59,Switch,Session hijacking
+2021,Privilege Escalation,48,High,6.9,0.87,Router,Data exposure
+2022,XML External Entity (XXE),43,Low,4.7,0.87,Database,Unauthorized access   Data loss
+2022,Misconfiguration    Security Headers,42,Medium,6.2,0.71,API,Detection delay   Long  term impact
+2023,Server  Side Request Forgery,32,Low,7.7,0.87,Workstation,Sensitive data leak
+2021,Path Traversal,47,High,6.5,0.81,Storage,Session hijacking
+2021,Comm  Injection,44,High,5.4,0.77,Firmware,Detection delay   Long  term impact
+2021,Insecure Deserialization,23,Critical,6.5,0.55,Router,Detection delay   Long  term impact
+2022,Weak Cryptography,38,Critical,8.8,0.55,Switch,Unauthorized access   Data loss
+2023,Misconfiguration    Security Headers,44,Critical,4.1,0.89,Router,Sensitive data leak
+2023,Information Disclosure,40,Low,5.1,0.84,Cameras,Unauthorized access   Data loss
+2021,Server  Side Request Forgery,19,Low,6.0,0.53,API,Remote code execution
+2023,Weak Cryptography,34,Critical,4.1,0.8,Storage,Session hijacking
+2022,Buffer Overflow,24,Low,9.0,0.82,Router,Privilege escalation   Denial    Service
+2023,Race Condition,12,High,4.5,0.87,Router,Remote code execution
+2021,Information Disclosure,6,Medium,6.9,0.77,Server,Unauthorized access   System control
+2022,Privilege Escalation,31,Low,6.8,0.51,API,Unauthorized access   System control
+2022,Misconfiguration    Security Headers,21,Medium,4.2,0.82,Cameras,Data theft   Remote code execution
+2023,Buffer Overflow,38,High,6.8,0.74,API,Unauthorized access   Data loss
+2021,XML External Entity (XXE),8,Medium,8.0,0.72,Cameras,Unauthorized access   System control
+2022,Insufficient Logging   Monitoring,35,Critical,9.3,0.97,Firmware,Data theft   Remote code execution
+2023,Misconfiguration    Security Headers,22,High,4.5,0.75,Database,Sensitive data leak
+2022,XML External Entity (XXE),16,High,4.6,0.62,IoT Devices,Sensitive data leak
+2022,Cross  Site Request Forgery,25,Critical,7.2,0.55,Database,Data exposure
+2022,Cross  Site Request Forgery,32,Medium,4.2,0.66,Web Application,Unauthorized access   Data loss
+2022,Buffer Overflow,19,High,9.0,0.77,Database,Session hijacking
+2021,Privilege Escalation,25,High,9.6,0.65,Web Application,Privilege escalation   Denial    Service
+2021,Directory Traversal,19,Medium,7.1,0.58,Router,Data theft   Remote code execution
+2021,Comm  Injection,19,Medium,8.9,0.77,IoT Devices,Sensitive data leak
+2021,Misconfiguration    Security Headers,24,Low,6.2,0.79,API,Privilege escalation   Denial    Service
+2022,SQL Injection,13,Critical,7.1,0.74,Web Application,Unauthorized access   System control
+2022,Privilege Escalation,23,Critical,8.4,0.84,Switch,Session hijacking
+2023,Remote File Inclusion,43,Critical,9.6,0.98,Database,Unauthorized access   Data loss
+2023,SQL Injection,5,High,5.7,0.65,Web Application,Data theft   Remote code execution
+2023,Privilege Escalation,38,Critical,4.4,0.81,Switch,Sensitive data leak
+2021,Server  Side Request Forgery,46,High,9.6,0.72,Switch,Privilege escalation   Denial    Service
+2022,Remote File Inclusion,47,Medium,4.7,0.62,Cameras,Sensitive data leak
+2023,Remote File Inclusion,12,Critical,7.5,0.52,Server,Sensitive data leak
+2023,SQL Injection,30,Medium,7.6,0.77,Workstation,System takeover   Privilege escalation
+2021,Comm  Injection,9,Critical,9.7,0.92,Router,Data exposure
+2022,Server  Side Request Forgery,44,Critical,9.5,0.85,Switch,Remote code execution
+2023,Misconfiguration    Security Headers,39,High,5.0,0.84,Web Application,Data exposure
+2022,Server  Side Request Forgery,38,Medium,4.5,0.86,Workstation,Privilege escalation   Denial    Service
+2023,Path Traversal,17,Critical,4.5,0.66,IoT Devices,Remote code execution
+2023,Improper Input Validation,47,Medium,8.4,0.6,Workstation,Data exposure
+2023,Information Disclosure,37,Medium,8.9,0.99,Switch,Data exposure
+2021,Insufficient Logging   Monitoring,40,High,4.4,0.78,Database,Unauthorized access   System control
+2022,Cross  Site Scripting,8,Low,4.8,0.92,Firmware,Privilege escalation   Denial    Service
+2023,Directory Traversal,33,Critical,4.8,0.88,Storage,Remote code execution
+2023,XML External Entity (XXE),39,High,5.4,0.7,Server,Sensitive data leak
+2022,Improper Input Validation,29,High,4.4,0.55,Web Application,Remote code execution
+2021,Server  Side Request Forgery,17,High,6.0,0.62,Switch,Data theft   Remote code execution
+2023,Weak Cryptography,47,Critical,9.6,0.55,Cameras,Remote code execution
+2022,Improper Input Validation,33,Medium,5.0,0.93,Cameras,Sensitive data leak
+2021,Path Traversal,2,Medium,4.7,0.96,Database,System takeover   Privilege escalation
+2023,Path Traversal,48,Low,6.9,0.55,Cameras,Data theft   Remote code execution
+2023,Race Condition,42,Critical,5.5,0.9,Firmware,Sensitive data leak
+2023,Server  Side Request Forgery,6,High,8.5,0.96,Workstation,Sensitive data leak
+2022,Weak Cryptography,13,Critical,6.6,0.81,Database,Detection delay   Long  term impact
+2023,Cross  Site Scripting,34,Critical,6.3,0.73,Server,System takeover   Privilege escalation
+2023,Improper Input Validation,1,Critical,8.4,0.76,Router,Data theft   Remote code execution
+2022,SQL Injection,39,High,9.9,0.78,API,System takeover   Privilege escalation
+2021,Server  Side Request Forgery,18,Medium,4.8,0.98,Database,Data exposure
+2022,Buffer Overflow,22,Low,6.5,0.9,Cameras,Sensitive data leak
+2021,Insecure Direct Object Reference,21,Critical,5.3,0.87,Workstation,Unauthorized access   System control
+2022,Comm  Injection,48,Low,6.3,0.51,Database,Detection delay   Long  term impact
+2023,Race Condition,8,High,4.4,0.54,Storage,Sensitive data leak
+2021,Insecure Direct Object Reference,31,Low,5.3,0.53,Switch,Privilege escalation   Denial    Service
+2022,XML External Entity (XXE),16,Medium,4.9,0.53,Storage,Session hijacking
+2023,Buffer Overflow,43,Medium,9.2,0.96,Database,Data exposure
+2021,SQL Injection,14,Critical,8.9,0.91,Database,Unauthorized access   System control
+2021,Buffer Overflow,33,Medium,4.8,0.75,API,Unauthorized access   System control
+2022,Directory Traversal,50,Medium,4.3,0.9,Web Application,Session hijacking
+2021,XML External Entity (XXE),27,Critical,4.4,0.54,Router,Data theft   Remote code execution
+2021,Authentication Bypass,24,Low,7.6,0.77,API,Unauthorized access   Data loss
+2021,Improper Input Validation,25,High,6.7,0.8,Cameras,Sensitive data leak
+2021,Insufficient Logging   Monitoring,43,Critical,8.6,0.68,API,Unauthorized access   System control
+2021,Cross  Site Request Forgery,47,Medium,5.4,0.84,Cameras,Detection delay   Long  term impact
+2021,Directory Traversal,18,High,4.8,0.72,Cameras,Data exposure
+2021,Server  Side Request Forgery,17,Medium,5.9,0.73,Workstation,Detection delay   Long  term impact
+2022,Directory Traversal,23,High,4.9,0.91,Cameras,System takeover   Privilege escalation
+2022,Authentication Bypass,35,High,4.5,0.75,API,Sensitive data leak
+2022,Remote File Inclusion,48,High,6.5,0.88,Workstation,Data exposure
+2023,Directory Traversal,38,Medium,6.1,0.91,Web Application,Sensitive data leak
+2022,Weak Cryptography,1,Critical,4.7,0.72,API,Detection delay   Long  term impact
+2021,Insecure Deserialization,11,Critical,8.1,0.69,Workstation,Data theft   Remote code execution
+2022,XML External Entity (XXE),4,Low,6.9,0.98,Cameras,Data exposure
+2021,Path Traversal,3,High,7.3,0.61,Firmware,Unauthorized access   Data loss
+2021,XML External Entity (XXE),48,Low,8.1,0.9,Server,Privilege escalation   Denial    Service
+2021,Cross  Site Scripting,48,Medium,5.0,0.64,Firmware,Detection delay   Long  term impact
+2023,Cross  Site Scripting,45,Medium,8.2,0.95,API,Session hijacking
+2021,Server  Side Request Forgery,32,Medium,7.5,0.8,Switch,Sensitive data leak
+2023,Comm  Injection,37,Low,5.8,0.79,Firmware,System takeover   Privilege escalation
+2022,XML External Entity (XXE),15,High,7.8,0.73,Server,Data exposure
+2023,Misconfiguration    Security Headers,23,Critical,9.8,0.91,API,Sensitive data leak
+2023,XML External Entity (XXE),21,High,4.3,0.69,Firmware,Data exposure
+2023,Improper Input Validation,15,High,9.8,0.71,Server,Remote code execution
+2021,Path Traversal,43,Critical,4.1,0.76,Server,System takeover   Privilege escalation
+2022,Misconfiguration    Security Headers,50,Critical,6.1,0.61,Server,Data theft   Remote code execution
+2022,SQL Injection,41,Critical,5.4,0.63,API,Unauthorized access   System control
+2023,Remote File Inclusion,11,High,7.4,0.73,Router,Privilege escalation   Denial    Service
+2023,Information Disclosure,29,Low,7.3,0.66,API,Unauthorized access   System control
+2021,Comm  Injection,21,Low,4.2,0.74,Web Application,Sensitive data leak
+2021,Buffer Overflow,4,Medium,6.5,0.6,Web Application,Unauthorized access   System control
+2022,Directory Traversal,35,High,4.9,0.63,Cameras,Data theft   Remote code execution
+2021,Insecure Direct Object Reference,37,High,8.8,0.6,API,Sensitive data leak
+2021,Insufficient Logging   Monitoring,43,Low,7.7,0.59,Cameras,Privilege escalation   Denial    Service
+2021,Privilege Escalation,3,Critical,6.8,0.82,Switch,Detection delay   Long  term impact
+2021,Insecure Direct Object Reference,26,Medium,6.4,0.99,Workstation,Privilege escalation   Denial    Service
+2021,Improper Input Validation,1,High,7.5,0.6,API,Unauthorized access   Data loss
+2021,Information Disclosure,26,Medium,6.3,0.8,API,Privilege escalation   Denial    Service
+2022,Insufficient Logging   Monitoring,24,Medium,6.7,0.66,Database,Remote code execution
+2023,Authentication Bypass,13,Low,5.3,0.94,Database,Unauthorized access   System control
+2021,Insufficient Logging   Monitoring,40,High,6.3,0.73,Firmware,Detection delay   Long  term impact
+2022,Race Condition,34,High,7.6,0.75,Cameras,Detection delay   Long  term impact
+2023,Server  Side Request Forgery,44,Low,4.1,0.97,API,Unauthorized access   System control
+2023,Race Condition,45,Medium,5.9,0.72,Web Application,Sensitive data leak
+2023,Insufficient Logging   Monitoring,38,Critical,4.8,0.83,Router,Unauthorized access   Data loss
+2023,Directory Traversal,37,Medium,4.9,0.86,IoT Devices,System takeover   Privilege escalation
+2022,Cross  Site Request Forgery,32,High,7.0,0.88,Cameras,Remote code execution
+2022,XML External Entity (XXE),21,High,8.4,0.63,Cameras,Data exposure
+2022,Path Traversal,38,High,6.7,0.65,API,Unauthorized access   Data loss
+2022,Directory Traversal,12,Critical,9.2,0.63,Switch,Detection delay   Long  term impact
+2023,Insufficient Logging   Monitoring,12,Low,4.5,0.81,Database,System takeover   Privilege escalation
+2022,Cross  Site Scripting,39,Low,6.5,0.77,Web Application,Remote code execution
+2022,Insufficient Logging   Monitoring,29,Critical,8.3,0.58,Web Application,Privilege escalation   Denial    Service
+2021,Race Condition,2,Medium,6.8,0.64,API,Detection delay   Long  term impact
+2023,Privilege Escalation,13,Low,6.2,0.97,Cameras,Session hijacking
+2023,Buffer Overflow,25,High,8.4,0.62,Workstation,Sensitive data leak
+2022,Information Disclosure,34,Medium,5.8,0.88,Firmware,Remote code execution
+2022,Remote File Inclusion,2,Low,9.6,0.97,Web Application,Privilege escalation   Denial    Service
+2021,Information Disclosure,10,Low,5.5,0.67,Web Application,Session hijacking
+2023,Misconfiguration    Security Headers,45,Medium,8.6,0.57,Database,Unauthorized access   System control
+2023,Path Traversal,13,Critical,5.9,0.67,Server,Data theft   Remote code execution
+2022,Comm  Injection,38,Low,7.9,0.81,Firmware,Data exposure
+2023,Improper Input Validation,36,Low,5.9,0.95,Web Application,System takeover   Privilege escalation
+2022,Remote File Inclusion,13,High,8.6,0.74,API,Sensitive data leak
+2021,Misconfiguration    Security Headers,43,High,6.6,0.71,API,Remote code execution
+2021,Insecure Direct Object Reference,43,Medium,5.3,0.57,Cameras,System takeover   Privilege escalation
+2023,Privilege Escalation,47,Low,6.7,0.72,API,System takeover   Privilege escalation
+2022,Authentication Bypass,48,High,6.1,0.73,Firmware,Session hijacking
+2022,Misconfiguration    Security Headers,36,High,10.0,0.96,Router,Detection delay   Long  term impact
+2023,Remote File Inclusion,19,Low,6.0,0.93,Firmware,Data exposure
+2021,Buffer Overflow,44,High,8.2,0.61,IoT Devices,Privilege escalation   Denial    Service
+2023,Server  Side Request Forgery,11,High,9.0,0.98,Workstation,Unauthorized access   Data loss
+2021,Cross  Site Request Forgery,19,Critical,8.2,0.55,Router,Detection delay   Long  term impact
+2022,Insecure Direct Object Reference,15,Critical,4.3,0.6,Switch,Data exposure
+2021,Privilege Escalation,47,High,7.6,0.86,Storage,Remote code execution
+2023,Race Condition,41,Low,8.8,0.83,Database,Data exposure
+2021,Authentication Bypass,32,High,5.9,0.98,Server,System takeover   Privilege escalation
+2021,XML External Entity (XXE),30,Critical,9.3,0.59,API,Session hijacking
+2022,Authentication Bypass,36,Medium,8.5,0.74,Workstation,Sensitive data leak
+2023,Privilege Escalation,38,Low,6.2,0.75,API,System takeover   Privilege escalation
+2021,Buffer Overflow,12,Critical,4.4,0.68,Router,Data exposure
+2023,SQL Injection,47,High,4.4,0.51,Server,Sensitive data leak
+2022,Privilege Escalation,4,Critical,7.6,0.71,Server,Remote code execution
+2022,SQL Injection,24,Medium,7.9,0.58,Cameras,Privilege escalation   Denial    Service
+2023,Improper Input Validation,23,Critical,8.5,0.68,Web Application,Data exposure
+2021,Cross  Site Request Forgery,10,Critical,7.3,0.93,Database,System takeover   Privilege escalation
+2022,XML External Entity (XXE),14,High,8.7,0.89,IoT Devices,System takeover   Privilege escalation
+2022,SQL Injection,45,Low,9.0,0.78,Server,Sensitive data leak
+2021,Comm  Injection,38,Medium,7.3,0.64,Web Application,Unauthorized access   Data loss
+2022,Directory Traversal,41,Critical,8.6,0.85,Workstation,Detection delay   Long  term impact
+2022,Comm  Injection,16,High,9.1,0.71,Server,Data theft   Remote code execution
+2023,Misconfiguration    Security Headers,34,Medium,6.8,0.78,Storage,Sensitive data leak
+2021,Authentication Bypass,42,High,8.4,0.67,Cameras,Data exposure
+2021,Comm  Injection,13,Critical,6.7,0.96,Router,Privilege escalation   Denial    Service
+2023,Remote File Inclusion,15,Low,9.0,0.93,Server,Unauthorized access   Data loss
+2022,Insecure Deserialization,29,Low,6.5,0.53,Database,System takeover   Privilege escalation
+2021,SQL Injection,32,High,6.5,0.73,Database,Session hijacking
+2023,Comm  Injection,49,Low,5.5,0.92,IoT Devices,Remote code execution
+2021,Insufficient Logging   Monitoring,32,Medium,4.3,0.53,IoT Devices,Remote code execution
+2023,Insecure Deserialization,34,Low,6.9,0.93,API,Privilege escalation   Denial    Service
+2023,Privilege Escalation,50,Medium,6.2,0.74,API,Privilege escalation   Denial    Service
+2021,Directory Traversal,38,High,7.6,0.64,Database,Unauthorized access   Data loss
+2023,Insecure Deserialization,42,High,4.8,0.77,Server,Data theft   Remote code execution
+2021,SQL Injection,44,Critical,7.7,0.71,Workstation,Session hijacking
+2022,Privilege Escalation,33,High,9.8,0.65,Web Application,Unauthorized access   System control
+2023,Insufficient Logging   Monitoring,6,High,9.7,0.59,Cameras,Sensitive data leak
+2021,Remote File Inclusion,18,Low,7.8,0.54,Database,Session hijacking
+2022,Improper Input Validation,37,Critical,7.9,0.67,Workstation,Unauthorized access   Data loss
+2023,Insecure Direct Object Reference,17,High,5.5,0.83,Server,Session hijacking
+2023,Misconfiguration    Security Headers,29,High,5.0,0.71,Workstation,Privilege escalation   Denial    Service
+2021,Misconfiguration    Security Headers,32,Low,6.7,0.93,Web Application,System takeover   Privilege escalation
+2021,Path Traversal,34,High,8.6,0.93,API,Session hijacking
+2021,Server  Side Request Forgery,48,Low,8.5,0.96,Workstation,Unauthorized access   Data loss
+2023,Insufficient Logging   Monitoring,16,Medium,7.6,0.67,Web Application,Data exposure
+2023,Insecure Deserialization,28,Medium,5.9,0.98,Server,Sensitive data leak
+2021,Server  Side Request Forgery,31,Critical,5.2,0.61,Router,Privilege escalation   Denial    Service
+2021,Information Disclosure,24,Low,7.4,0.85,Router,System takeover   Privilege escalation
+2023,Improper Input Validation,8,Medium,4.5,0.81,Switch,Data theft   Remote code execution
+2022,XML External Entity (XXE),27,Critical,4.0,0.76,Database,Unauthorized access   System control
+2022,Insecure Deserialization,31,Critical,8.0,0.72,Web Application,Unauthorized access   Data loss
+2022,Insecure Deserialization,19,Low,4.6,0.8,Cameras,Detection delay   Long  term impact
+2021,Server  Side Request Forgery,5,Critical,4.4,0.57,Firmware,Data theft   Remote code execution
+2022,Insecure Deserialization,30,Low,5.5,0.56,Switch,Data exposure
+2021,Cross  Site Scripting,4,Critical,8.8,0.91,Storage,Unauthorized access   Data loss
+2023,Cross  Site Request Forgery,17,Critical,6.8,0.94,Storage,Data theft   Remote code execution
+2021,Weak Cryptography,40,Low,7.9,0.78,Storage,System takeover   Privilege escalation
+2023,Cross  Site Request Forgery,17,Low,4.7,0.68,Server,System takeover   Privilege escalation
+2023,Improper Input Validation,7,Critical,4.8,0.51,Database,Session hijacking
+2021,Cross  Site Scripting,30,Medium,7.4,0.84,Firmware,Remote code execution
+2021,Comm  Injection,20,Critical,7.5,0.96,Cameras,Privilege escalation   Denial    Service
+2021,Weak Cryptography,2,Critical,7.5,0.92,Database,Unauthorized access   System control
+2021,Cross  Site Request Forgery,16,Medium,5.9,0.67,Router,Unauthorized access   Data loss
+2023,Cross  Site Scripting,28,Medium,6.8,0.83,Cameras,System takeover   Privilege escalation
+2022,Information Disclosure,25,Low,9.2,0.71,Database,Detection delay   Long  term impact
+2023,Path Traversal,34,Medium,4.3,0.63,Workstation,Session hijacking
+2021,Weak Cryptography,10,High,9.9,0.95,Database,Unauthorized access   System control
+2023,Weak Cryptography,39,Low,7.1,0.91,Server,Sensitive data leak
+2021,Race Condition,27,Medium,7.6,0.99,IoT Devices,System takeover   Privilege escalation
+2022,Buffer Overflow,45,Medium,6.3,0.87,Web Application,Sensitive data leak
+2023,Race Condition,31,Medium,9.7,0.65,Storage,Detection delay   Long  term impact
+2023,Directory Traversal,12,Medium,6.3,0.67,IoT Devices,Privilege escalation   Denial    Service
+2023,Insufficient Logging   Monitoring,41,Critical,6.9,0.86,Server,Unauthorized access   System control
+2021,Remote File Inclusion,3,High,5.8,0.5,Firmware,Session hijacking
+2023,Directory Traversal,4,Low,9.5,0.94,Firmware,Session hijacking
+2022,Cross  Site Scripting,50,Low,9.8,0.98,Cameras,Data exposure
+2021,Buffer Overflow,47,High,9.6,0.67,IoT Devices,Data theft   Remote code execution
+2022,Privilege Escalation,15,Medium,5.8,0.54,Switch,Sensitive data leak
+2022,Directory Traversal,37,Low,6.7,0.74,Cameras,Unauthorized access   System control
+2022,Remote File Inclusion,7,Low,6.5,0.64,Workstation,Remote code execution
+2022,Directory Traversal,10,Critical,4.9,0.68,Server,Remote code execution
+2022,SQL Injection,10,Low,8.8,0.92,API,Unauthorized access   System control
+2022,Remote File Inclusion,13,High,6.7,0.86,Web Application,System takeover   Privilege escalation
+2022,Cross  Site Request Forgery,18,Medium,9.5,0.82,Workstation,Data exposure
+2021,Remote File Inclusion,31,High,6.8,0.99,Database,Detection delay   Long  term impact
+2021,Insecure Direct Object Reference,22,Critical,9.3,0.68,Storage,Data exposure
+2022,Privilege Escalation,33,High,7.1,0.75,Storage,Data exposure
+2021,Information Disclosure,37,Low,7.8,0.61,IoT Devices,Data theft   Remote code execution
+2023,XML External Entity (XXE),48,High,4.9,0.6,Server,Data exposure
+2023,SQL Injection,42,High,7.7,0.91,API,Privilege escalation   Denial    Service
+2022,Remote File Inclusion,21,High,8.9,0.66,Switch,Detection delay   Long  term impact
+2023,Insecure Deserialization,38,Low,6.3,0.62,Switch,System takeover   Privilege escalation
+2023,Buffer Overflow,34,Critical,5.6,0.99,Database,Data exposure
+2021,Weak Cryptography,46,Critical,9.8,0.81,Switch,Unauthorized access   System control
+2023,Cross  Site Scripting,29,Critical,8.5,0.58,Cameras,Unauthorized access   System control
+2021,Weak Cryptography,7,High,4.6,0.92,Workstation,Remote code execution
+2023,Comm  Injection,47,Critical,10.0,0.86,Workstation,Data theft   Remote code execution
+2023,Misconfiguration    Security Headers,45,Low,4.1,0.69,Cameras,Remote code execution
+2022,XML External Entity (XXE),23,Medium,9.3,0.82,Firmware,Sensitive data leak
+2023,Insecure Deserialization,14,Critical,9.4,0.92,Switch,Privilege escalation   Denial    Service
+2023,Improper Input Validation,39,High,9.3,0.62,Router,Session hijacking
+2022,Improper Input Validation,24,High,4.9,0.71,Cameras,Unauthorized access   Data loss
+2021,Cross  Site Scripting,38,High,4.0,0.63,Router,Unauthorized access   Data loss
+2022,SQL Injection,14,Medium,9.2,0.73,Database,Sensitive data leak
+2023,Weak Cryptography,33,Medium,8.1,0.5,Switch,Sensitive data leak
+2023,Insufficient Logging   Monitoring,24,Low,4.2,0.7,Server,Data exposure
+2021,SQL Injection,1,Medium,5.4,0.82,Storage,Unauthorized access   Data loss
+2023,Cross  Site Scripting,42,Low,4.8,0.55,Firmware,Data exposure
+2021,Directory Traversal,14,High,6.7,0.86,Storage,Sensitive data leak
+2022,Cross  Site Scripting,19,Critical,5.1,0.62,IoT Devices,Session hijacking
+2021,Directory Traversal,42,Low,6.4,0.9,Storage,Privilege escalation   Denial    Service
+2023,Server  Side Request Forgery,9,Critical,4.3,0.91,Database,Unauthorized access   Data loss
+2021,Insecure Direct Object Reference,32,Medium,9.9,0.77,Database,Detection delay   Long  term impact
+2021,Path Traversal,15,Medium,7.9,0.88,Web Application,Detection delay   Long  term impact
+2022,Authentication Bypass,43,Critical,5.1,0.64,Cameras,Data theft   Remote code execution
+2022,Path Traversal,38,High,6.8,0.51,Cameras,Unauthorized access   Data loss
+2021,Information Disclosure,32,High,4.2,0.73,IoT Devices,System takeover   Privilege escalation
+2023,Authentication Bypass,12,High,8.6,0.7,IoT Devices,Remote code execution
+2021,Misconfiguration    Security Headers,43,High,7.7,0.89,Storage,System takeover   Privilege escalation
+2021,SQL Injection,24,Low,4.7,0.85,Switch,Data exposure
+2021,Insecure Deserialization,26,Medium,6.1,0.85,Database,Sensitive data leak
+2022,Remote File Inclusion,18,Critical,7.4,0.88,Firmware,Data theft   Remote code execution
+2021,Buffer Overflow,18,Critical,8.4,0.89,Web Application,Session hijacking
+2023,Remote File Inclusion,38,Low,9.6,0.9,IoT Devices,Data theft   Remote code execution
+2021,Authentication Bypass,31,High,9.2,0.63,Firmware,Session hijacking
+2022,XML External Entity (XXE),1,High,7.4,0.51,Cameras,System takeover   Privilege escalation
+2022,Cross  Site Scripting,26,Critical,5.1,0.77,Firmware,Data exposure
+2021,Misconfiguration    Security Headers,20,High,5.2,0.61,Web Application,Data exposure
+2023,XML External Entity (XXE),38,Low,8.1,0.64,Database,Privilege escalation   Denial    Service
+2022,Cross  Site Request Forgery,8,Low,7.8,0.52,Firmware,System takeover   Privilege escalation
+2021,Misconfiguration    Security Headers,30,Low,6.3,0.62,Database,Sensitive data leak
+2022,Cross  Site Scripting,14,Medium,4.6,0.79,API,Unauthorized access   System control
+2022,Information Disclosure,46,High,4.8,0.76,Web Application,System takeover   Privilege escalation
+2021,Remote File Inclusion,25,Critical,9.9,0.51,Web Application,Sensitive data leak
+2022,Insecure Direct Object Reference,37,Medium,9.4,0.85,Storage,Sensitive data leak
+2023,Remote File Inclusion,1,Critical,8.1,0.97,Storage,Detection delay   Long  term impact
+2021,Improper Input Validation,17,Medium,9.0,0.53,IoT Devices,Remote code execution
